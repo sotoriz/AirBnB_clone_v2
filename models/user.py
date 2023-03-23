@@ -1,4 +1,4 @@
-y#!/usr/bin/python3
+#!/usr/bin/python3
 """This module defines a class User"""
 from models.base_model import BaseModel, Base
 from models import storage_type
